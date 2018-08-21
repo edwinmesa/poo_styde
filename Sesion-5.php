@@ -54,7 +54,11 @@ class Soldier extends Unit {
         show("{$this->name} ataca con la espada a {$opponent->getName()}");
         $opponent->takeDamage($this->damage);
     }
-
+    /*
+     * Accedemos al metodo padre de Unit y le aplicamos el daño
+     * que infringe el oponente en esta caso el arquero 20/2 = 10
+     * Este seria el daño y se resta del puntaje 40-10 = 30
+     */
     public function takeDamage($damage) {
         return parent::takeDamage($damage / 2);
     }
@@ -70,7 +74,12 @@ class Archer extends Unit {
 
         $opponent->takeDamage($this->damage);
     }
-
+    /*
+     * Accedemos al metodo padre de Unit y le aplicamos el daño
+     * que infringe el oponente en esta caso el soldado que son 40
+     * Este seria el daño y se resta del puntaje 40-40 = 0, pero
+     * el arquero puede esquivar este ataque
+     */
     public function takeDamage($damage) {
         if (rand(0, 1) == 1) {
             return parent::takeDamage($damage);
