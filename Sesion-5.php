@@ -10,11 +10,6 @@ abstract class Unit {
     protected $alive = true;
     protected $name;
 
-    public function setHp($points) {
-        $this->hp = $points;
-        show("{$this->name} ahora tiene {$this->hp} puntos de vida");
-    }
-
     public function getHp() {
         return $this->hp;
     }
@@ -32,12 +27,24 @@ abstract class Unit {
     }
 
     abstract public function attack(Unit $opponent);
+    /*
+     * Se declara el takeDamage en la clase unidad este realiza
+     * el calculo de los puntos, toma los puntos por defecto en este 
+     * caso 40 puntos y hace el llamado al metodo absorbDamage. Para el 
+     * soldado si tiene armadura le reduce de lo contrario toma por default.
+     * Para el arquero lo toma sin esquivar y le aplica todo el daño y muere
+     */
 
     public function takeDamage($damage) {
-        $this->setHp($this->hp - $damage);
+        $this->hp = $this->hp - $this->absorbDamage($damage);
+        show("{$this->name} ahora tiene {$this->hp} puntos de vida");
         if ($this->hp <= 0) {
             $this->dier();
         }
+    }
+
+    protected function absorbDamage($damage) {
+        return $damage;
     }
 
     public function dier() {
@@ -52,12 +59,11 @@ class Soldier extends Unit {
     protected $damage = 40;
     protected $armor;
 
-    public function __construct($name, Armor $armor = null) {
-        $this->armor = $armor;
+    public function __construct($name) {
         parent::__construct($name);
     }
-    
-    public function setArmor(Armor $armor=null) {
+
+    public function setArmor(Armor $armor = null) {
         $this->armor = $armor;
     }
 
@@ -66,13 +72,7 @@ class Soldier extends Unit {
         $opponent->takeDamage($this->damage);
     }
 
-    /*
-     * Accedemos al metodo padre de Unit y le aplicamos el daño
-     * que infringe el oponente en esta caso el arquero 20/2 = 10
-     * Este seria el daño y se resta del puntaje 40-10 = 30
-     */
-
-    public function takeDamage($damage) {
+    protected function absorbDamage($damage) {
         if ($this->armor) {
             /*
              * Si el soldado tiene una armadura entonces el daño es igual
@@ -82,7 +82,8 @@ class Soldier extends Unit {
              */
             $damage = $this->armor->absorbDamage($damage);
         }
-        return parent::takeDamage($damage);
+
+        return $damage;
     }
 
 }
@@ -97,37 +98,45 @@ class Archer extends Unit {
         $opponent->takeDamage($this->damage);
     }
 
-    /*
-     * Accedemos al metodo padre de Unit y le aplicamos el daño
-     * que infringe el oponente en esta caso el soldado que son 40
-     * Este seria el daño y se resta del puntaje 40-40 = 0, pero
-     * el arquero puede esquivar este ataque, como adicionamos en 
-     * el codigo.
-     */
+}
+/*
+ * Creacion de interfaces, esto con el fin de emplear el metodo
+ * absorbDamage en varias clases de armaduras para soldados y 
+ * hasta arqueros. Si inyectamos esta clase en otras clases se 
+ * obliga a implementar los metodos.
+ */
+interface Armor {
 
-    public function takeDamage($damage) {
-        if (rand(0, 1) == 1) {
-            return parent::takeDamage($damage);
-        } else {
-            show("{$this->getName()} ha esquivado el ataque");
-        }
-    }
-
+    public function absorbDamage($damage);
 }
 
-class Armor {
+class BronzeArmor implements Armor{
 
     public function absorbDamage($damage) {
         return $damage / 2;
     }
 
 }
+class SilverArmor implements Armor{
+    public function absorbDamage($damage) {
+        return $damage / 3;
+    }
+}
 
-$armor = new Armor();
+class CursedArmor implements Armor{
+       public function absorbDamage($damage) {
+        return $damage * 2;
+    }
+}
+
+$armor = new BronzeArmor();
 $ramm = new Soldier('Ramm');
 $silence = new Archer('Silence');
 //$silence->move('el norte');
 $silence->attack($ramm);
-$ramm->setArmor($armor);
+/*
+ * Polimorfismo.
+ */
+$ramm->setArmor(new CursedArmor);
 $silence->attack($ramm);
 $ramm->attack($silence);
