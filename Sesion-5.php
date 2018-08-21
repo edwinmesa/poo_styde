@@ -62,7 +62,10 @@ class Soldier extends Unit {
     public function __construct($name) {
         parent::__construct($name);
     }
-
+    /*
+     * Este setArmor crea una aramdura para el 
+     * sooldado
+     */
     public function setArmor(Armor $armor = null) {
         $this->armor = $armor;
     }
