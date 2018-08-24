@@ -3,9 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/poo/composer.json</file>
-            <file>file:/C:/xampp/htdocs/poo/vendor/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/poo/src/Weapons/BasicBow.php</file>
+            <file>file:/C:/xampp/htdocs/poo/src/Attack.php</file>
+            <file>file:/C:/xampp/htdocs/poo/src/Weapons/FireBow.php</file>
+            <file>file:/C:/xampp/htdocs/poo/src/Weapons/BasicSword.php</file>
+            <file>file:/C:/xampp/htdocs/poo/src/Weapons/CrossBow.php</file>
+            <file>file:/C:/xampp/htdocs/poo/src/Armors/SilverArmor.php</file>
+            <file>file:/C:/xampp/htdocs/poo/src/Weapon.php</file>
             <file>file:/C:/xampp/htdocs/poo/public/index.php</file>
+            <file>file:/C:/xampp/htdocs/poo/src/Unit.php</file>
         </group>
     </open-files>
 </project-private>

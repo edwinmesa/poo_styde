@@ -17,11 +17,12 @@ namespace Styde\Weapons;
 use Styde\Weapon;
 use Styde\Unit;
 
-class BasicBow extends Weapon {
+class FireBow extends Weapon {
 
     //put your code here
     protected $damage = 20;
-    protected $description = ':unit dispara una flecha a :opponent';
+    protected $magical = true; 
+    protected $description = ':unit dispara una flecha de fuego98   421057  b 21    aZXcF GBHYE `1 a :opponent';
     
 //    public function getDescription(Unit $attacker, Unit $opponent) {
 //        return "{$attacker->getName()} dispara una flecha a {$opponent->getName()}";

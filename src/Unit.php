@@ -24,7 +24,7 @@ class Unit {
         $this->name = $name;
         $this->weapon = $weapon;
     }
-    
+
     public function setWeapon(Weapon $weapon) {
         $this->weapon = $weapon;
     }
@@ -41,12 +41,14 @@ class Unit {
 //        if(!$this->weapon){
 //            throw new Exception("La unidad no tiene armas");
 //        }
-       show($this->weapon->getDescription($this, $opponent));
-        $opponent->takeDamage($this->weapon->getDamage());
+        $attack = $this->weapon->createAttack();
+        
+        show($attack->getDescription($this, $opponent));
+        $opponent->takeDamage($attack);
     }
 
-    public function takeDamage($damage) {
-        $this->hp = $this->hp - $this->absorbDamage($damage);
+    public function takeDamage(Attack $attack) {
+        $this->hp = $this->hp - $this->absorbDamage($attack);
         show("{$this->name} ahora tiene {$this->hp} puntos de vida");
         if ($this->hp <= 0) {
             $this->dier();
@@ -62,11 +64,11 @@ class Unit {
         exit();
     }
 
-    protected function absorbDamage($damage) {
+    protected function absorbDamage(Attack $attack) {
         if ($this->armor) {
-            $damage = $this->armor->absorbDamage($damage);
+            return $this->armor->absorbDamage($attack);
         }
-        return $damage;
+        return $attack->getDamage();
     }
 
 }
