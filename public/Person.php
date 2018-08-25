@@ -13,20 +13,32 @@
  */
 class Person {
     //put your code here
-    protected static $name = 'Invitado';
+    protected  $name;
+    protected static $database = 'mysql';
+    public  $table = 'people';
     
     public function __construct($name) {
-        static::$name = $name;
+        $this->name = $name;
     }
-    public static function name() {
-        return static::$name;
+    public  function name() {
+        return $this->name;
+    }
+    
+    public function save() {
+        echo "<p>Saving {$this->name} in the table ". $this->table."</p>";
     }
 }
 
-exit(Person::name());
+//exit(Person::name());
+
+//Person::$table = 'Personas';
+
+$ramon = new Person('Rammon');
+$ramon->table = 'Personas';
+$ramon->save();
 
 $duilio = new Person('Duilio');
-$ramon = new Person('Edwin');
+$duilio->save();
 
 $ramon->name();
 $duilio->name();
