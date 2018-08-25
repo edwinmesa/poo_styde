@@ -13,15 +13,23 @@
  */
 class Person {
     //put your code here
-    protected $name;
+    protected static $name = 'Invitado';
     
     public function __construct($name) {
-        $this->name = $name;
+        static::$name = $name;
     }
-    public function name() {
-        return $this->name;
+    public static function name() {
+        return static::$name;
     }
 }
 
+exit(Person::name());
+
 $duilio = new Person('Duilio');
 $ramon = new Person('Edwin');
+
+$ramon->name();
+$duilio->name();
+
+echo "<p>{$duilio->name()}</p>";
+echo "<p>{$ramon->name()}</p>";
