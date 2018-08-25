@@ -22,7 +22,7 @@ class BasicSword extends Weapon {
 
     //put your code here
     protected $damage = 40;
-    protected $description = ':unit ataca con la espada a :opponent';
+//    protected $description;
 //    public function getDescription(Unit $attacker,Unit $opponent) {
 //        return "{$attacker->getName()} ataca con la espada a {$opponent->getName()}";
 //    }

@@ -21,15 +21,20 @@ class Attack {
     public function __construct($damage, $magical, $description) {
         $this->damage = $damage;
         $this->magical = $magical;
+        //LLave $key
         $this->description = $description;
     }
     
     public function getDescription(Unit $attacker, Unit $opponent) {
-        return str_replace(
-                [':unit',':opponent'],
-                [$attacker->getName(),$opponent->getName()],
-                $this->description
-                );
+       return Traslator::get($this->description, [
+            ':unit'=> $attacker->getName(),
+            ':opponent'=>$opponent->getName(),
+        ]);
+//        return str_replace(
+//                [':unit',':opponent'],
+//                [$attacker->getName(),$opponent->getName()],
+//                $this->description
+//                );
     }
     
     public function getDamage() {

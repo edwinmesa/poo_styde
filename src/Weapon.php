@@ -18,12 +18,16 @@ abstract class Weapon {
     //put your code here
     protected $damage = 0;
     protected $magical = false;
-    protected $description = ':unit ataca a :opponent';
+
+//    protected $description = ':unit ataca a :opponent';
 
     public function createAttack() {
-        return new Attack($this->damage, $this->magical, $this->description);
+        return new Attack($this->damage, $this->magical, $this->getDescriptionKey());
     }
     
-//    abstract function getDescription(Unit $attacker,Unit $opponent);
+    protected function getDescriptionKey() {
+        return str_replace('Styde\Weapons\\','',get_class($this)).'Attack';
+    }
 
+//    abstract function getDescription(Unit $attacker,Unit $opponent);
 }

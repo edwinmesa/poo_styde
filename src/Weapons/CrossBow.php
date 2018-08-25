@@ -21,7 +21,7 @@ class CrossBow extends Weapon {
 
     //put your code here
     protected $damage = 40;
-    protected $description = ':unit dispara una flecha :opponent';
+//    protected $description ;
 //    public function getDescription(Unit $attacker, Unit $opponent) {
 //        return "{$attacker->getName()} dispara una flecha a {$opponent->getName()}";
 //    }
