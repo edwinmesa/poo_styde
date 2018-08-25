@@ -20,9 +20,9 @@ use Styde\Unit;
 class FireBow extends Weapon {
 
     //put your code here
-    protected $damage = 20;
+    protected $damage = 30;
     protected $magical = true; 
-    protected $description = ':unit dispara una flecha de fuego98   421057  b 21    aZXcF GBHYE `1 a :opponent';
+    protected $description = ':unit dispara una flecha de fuego :opponent';
     
 //    public function getDescription(Unit $attacker, Unit $opponent) {
 //        return "{$attacker->getName()} dispara una flecha a {$opponent->getName()}";
