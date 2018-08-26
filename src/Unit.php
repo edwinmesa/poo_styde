@@ -2,8 +2,10 @@
 
 namespace Styde;
 
-
 class Unit {
+
+//    const PROJECT = 'Styde';
+    const MAX_DAMAGE = 100;
 
     protected $hp = 40;
     protected $alive = true;
@@ -29,7 +31,7 @@ class Unit {
     public static function createSoldier() {
         $soldier = new Unit('Ramm', new Weapons\BasicSword);
         $soldier->setArmor(new Armors\SilverArmor());
-        
+
         return $soldier;
     }
 
@@ -40,9 +42,9 @@ class Unit {
 
     public function setArmor(Armor $armor = null) {
         $this->armor = $armor;
-          return $this;
+        return $this;
     }
-    
+
     public function setShield() {
         return $this;
     }
@@ -62,11 +64,21 @@ class Unit {
     }
 
     public function takeDamage(Attack $attack) {
-        $this->hp = $this->hp - $this->armor->absorbDamage($attack);
+
+        $this->setHp(
+                $this->armor->absorbDamage($attack)
+                );
         Log::info("{$this->name} ahora tiene {$this->hp} puntos de vida");
         if ($this->hp <= 0) {
             $this->dier();
         }
+    }
+
+    protected function setHp($damage) {
+        if ($damage > static::MAX_DAMAGE) {
+            $damage = static::MAX_DAMAGE;
+        }
+        $this->hp = $this->hp - $damage;
     }
 
 //    protected function absorbDamage($damage) {
