@@ -5,6 +5,7 @@ namespace Styde;
 abstract class Armor {
 
     public function absorbDamage(Attack $attack) {
+        Log::info('Recibiendo daño.....');
         if ($attack->isMagical()) {
             return $this->absorbMagicalDamage($attack);
         }

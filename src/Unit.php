@@ -2,7 +2,6 @@
 
 namespace Styde;
 
-use Exception;
 
 class Unit {
 
@@ -11,6 +10,7 @@ class Unit {
     protected $name;
     protected $armor;
     protected $weapon;
+    protected $logger;
 
     public function getHp() {
         return $this->hp;
@@ -48,7 +48,7 @@ class Unit {
     }
 
     public function move($direction) {
-        show("{$this->name} camina hacia $direction");
+        Log::info("{$this->name} camina hacia $direction");
     }
 
     public function attack(Unit $opponent) {
@@ -57,13 +57,13 @@ class Unit {
 //        }
         $attack = $this->weapon->createAttack();
 
-        show($attack->getDescription($this, $opponent));
+        Log::info($attack->getDescription($this, $opponent));
         $opponent->takeDamage($attack);
     }
 
     public function takeDamage(Attack $attack) {
         $this->hp = $this->hp - $this->armor->absorbDamage($attack);
-        show("{$this->name} ahora tiene {$this->hp} puntos de vida");
+        Log::info("{$this->name} ahora tiene {$this->hp} puntos de vida");
         if ($this->hp <= 0) {
             $this->dier();
         }
@@ -74,7 +74,7 @@ class Unit {
 //    }
 
     public function dier() {
-        show("{$this->name} muere");
+        HtmlLogger::info("{$this->name} muere");
         exit();
     }
 
