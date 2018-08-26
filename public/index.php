@@ -4,6 +4,8 @@ namespace Styde;
 
 require '../vendor/autoload.php';
 
+//exit(Unit::PROJECT);
+
 Traslator::set([
     'BasicBowAttack' => ':unit dispara una flecha a :opponent',
     'BasicSwordAttack' => ':unit ataca con la espada a :opponent',
