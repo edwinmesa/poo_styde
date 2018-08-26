@@ -1,0 +1,408 @@
+(2018-08-26 23:24:02)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:02)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:02)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:02)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:03)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:03)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:03)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:03)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:05)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:05)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:05)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:05)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:07)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:07)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:07)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:07)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:08)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:08)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:08)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:08)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:09)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:09)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:09)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:09)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:10)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:10)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:10)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:10)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:12)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:12)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:12)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:12)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:14)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:14)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:14)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:14)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:15)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:15)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:15)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:15)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:17)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:17)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:17)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:17)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:19)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:19)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:19)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:19)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:21)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:21)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:21)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:21)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:22)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:22)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:22)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:22)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:24)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:24)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:24)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:24)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:26)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:26)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:26)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:26)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:27)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:27)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:27)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:27)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:29)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:29)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:29)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:29)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:31)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:31)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:31)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:31)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:33)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:33)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:33)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:33)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:34)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:34)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:34)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:34)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:36)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:36)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:36)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:36)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:38)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:38)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:38)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:38)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:39)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:39)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:39)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:39)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:41)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:41)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:41)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:41)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:43)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:43)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:43)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:43)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:45)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:45)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:45)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:45)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:46)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:46)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:46)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:46)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:48)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:48)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:48)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:48)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:50)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:50)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:50)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:50)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:51)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:51)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:51)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:51)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:53)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:53)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:53)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:53)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:55)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:55)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:55)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:55)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:24:57)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:57)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:24:57)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:24:57)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:32)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:32)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:32)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:32)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:34)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:34)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:34)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:34)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:35)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:35)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:35)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:35)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:37)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:37)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:37)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:37)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:37)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:37)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:37)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:37)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:39)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:39)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:39)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:39)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:40)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:40)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:40)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:40)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:42)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:42)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:42)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:42)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:44)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:44)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:44)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:44)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:46)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:46)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:46)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:46)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:47)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:47)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:47)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:47)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:49)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:49)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:49)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:49)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:34:51)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:51)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:34:51)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:34:51)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:24)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:24)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:24)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:24)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:26)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:26)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:26)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:26)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:27)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:27)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:27)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:27)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:28)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:28)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:28)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:28)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:29)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:29)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:29)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:29)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:31)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:31)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:31)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:31)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:33)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:33)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:33)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:33)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:34)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:34)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:34)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:34)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:36)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:36)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:36)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:36)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:38)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:38)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:38)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:38)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:40)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:40)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:40)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:40)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:41)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:41)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:41)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:41)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:43)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:43)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:43)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:43)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:45)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:45)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:45)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:45)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:46)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:46)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:46)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:46)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:48)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:48)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:48)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:48)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:50)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:50)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:50)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:50)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:52)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:52)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:52)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:52)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:53)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:53)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:53)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:53)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:55)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:55)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:55)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:55)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:57)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:57)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:57)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:57)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:42:58)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:58)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:42:58)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:42:58)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:00)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:00)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:00)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:00)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:02)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:02)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:02)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:02)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:04)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:04)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:04)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:04)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:05)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:05)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:05)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:05)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:07)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:07)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:07)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:07)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:09)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:09)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:09)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:09)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:10)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:10)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:10)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:10)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:12)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:12)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:12)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:12)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:14)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:14)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:14)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:14)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:16)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:16)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:16)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:16)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:17)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:17)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:17)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:17)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:19)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:19)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:19)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:19)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:21)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:21)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:21)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:21)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:22)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:22)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:22)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:22)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:24)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:24)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:24)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:24)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:24)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:24)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:24)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:24)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:26)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:26)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:26)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:26)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:28)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:28)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:28)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:28)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:29)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:29)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:29)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:29)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:31)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:31)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:31)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:31)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:33)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:33)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:33)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:33)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:34)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:34)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:34)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:34)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:36)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:36)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:36)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:36)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:38)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:38)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:38)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:38)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:40)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:40)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:40)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:40)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:41)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:41)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:41)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:41)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:43)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:43)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:43)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:43)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:45)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:45)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:45)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:45)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:46)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:46)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:46)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:46)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:48)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:48)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:48)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:48)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:50)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:50)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:50)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:50)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:52)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:52)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:52)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:52)Ramm ahora tiene -20 puntos de vida
+(2018-08-26 23:43:53)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:53)Ramm ahora tiene 10 puntos de vida
+(2018-08-26 23:43:53)Silence dispara una flecha de fuego a Ramm
+(2018-08-26 23:43:53)Ramm ahora tiene -20 puntos de vida
