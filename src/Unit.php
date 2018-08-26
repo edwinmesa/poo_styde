@@ -26,12 +26,25 @@ class Unit {
         $this->armor = new Armors\MissingArmor();
     }
 
+    public static function createSoldier() {
+        $soldier = new Unit('Ramm', new Weapons\BasicSword);
+        $soldier->setArmor(new Armors\SilverArmor());
+        
+        return $soldier;
+    }
+
     public function setWeapon(Weapon $weapon) {
         $this->weapon = $weapon;
+        return $this;
     }
 
     public function setArmor(Armor $armor = null) {
         $this->armor = $armor;
+          return $this;
+    }
+    
+    public function setShield() {
+        return $this;
     }
 
     public function move($direction) {
@@ -43,7 +56,7 @@ class Unit {
 //            throw new Exception("La unidad no tiene armas");
 //        }
         $attack = $this->weapon->createAttack();
-        
+
         show($attack->getDescription($this, $opponent));
         $opponent->takeDamage($attack);
     }
@@ -71,5 +84,4 @@ class Unit {
 ////        }
 ////        return $attack->getDamage();
 //    }
-
 }
